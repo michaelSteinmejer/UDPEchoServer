@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\bin\Debug\netcoreapp2.1\UDPEchoServer.deps.json
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\bin\Debug\netcoreapp2.1\UDPEchoServer.runtimeconfig.json
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\bin\Debug\netcoreapp2.1\UDPEchoServer.runtimeconfig.dev.json
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\bin\Debug\netcoreapp2.1\UDPEchoServer.dll
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\bin\Debug\netcoreapp2.1\UDPEchoServer.pdb
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.csprojAssemblyReference.cache
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.AssemblyInfo.cs
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.dll
+C:\Source\UDP\UDPEchoServer\UDPEchoServer\obj\Debug\netcoreapp2.1\UDPEchoServer.pdb
